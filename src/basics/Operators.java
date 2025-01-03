@@ -50,9 +50,9 @@ public class Operators {
 
         // Unary/ other operator
         int x = 12;
-        x++;
+        x++; // increment operator
         System.out.println(x);
-        x--;
+        x--; // decrment operator
         System.out.println(x);
 
     }
